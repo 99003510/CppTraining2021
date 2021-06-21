@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624207530 source:d:\cpp\assignment\set4_complex\main.cpp
+	<iostream>
+	"Complex.h"
+
+1624207031 d:\cpp\assignment\set4_complex\complex.h
+	<iostream>
+
