@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624244715 source:d:\cpp\assignment\set4_stack\main.cpp
+	<iostream>
+	"MyStack.h"
+
+1624248322 d:\cpp\assignment\set4_stack\mystack.h
+	<iostream>
+

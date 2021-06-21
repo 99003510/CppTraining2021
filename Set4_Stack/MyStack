@@ -1,0 +1,6 @@
+#include "MyStack.h"
+
+MyStack::MyStack()
+{
+    //ctor
+}
