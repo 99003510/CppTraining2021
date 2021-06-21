@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624035888 source:d:\cpp\assignment\set2_time\main.cpp
+	<iostream>
+	"Time.h"
+
+1624035878 d:\cpp\assignment\set2_time\time.h
+	<iostream>
+
