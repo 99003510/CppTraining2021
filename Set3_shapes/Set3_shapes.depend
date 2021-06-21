@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624188945 source:d:\cpp\assignment\set3_shapes\ishape.cpp
+	"IShape.h"
+
+1624189089 d:\cpp\assignment\set3_shapes\ishape.h
+	<iostream>
+
