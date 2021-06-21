@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623939556 source:d:\cpp\assignment\set1_point\point.cpp
+	"Point.h"
+
+1623938183 d:\cpp\assignment\set1_point\point.h
+	<iostream>
+
+1623939448 source:d:\cpp\assignment\set1_point\main.cpp
+	<iostream>
+	"Point.h"
+
