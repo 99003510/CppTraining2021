@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624166530 source:d:\cpp\assignment\set3_banking\main.cpp
+	<iostream>
+	"AccountBase.h"
+
+1624168184 d:\cpp\assignment\set3_banking\accountbase.h
+	<iostream>
+
